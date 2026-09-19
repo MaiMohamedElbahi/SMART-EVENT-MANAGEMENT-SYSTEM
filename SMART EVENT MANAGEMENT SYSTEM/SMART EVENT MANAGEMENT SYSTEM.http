@@ -1,0 +1,6 @@
+@SMART_EVENT_MANAGEMENT_SYSTEM_HostAddress = http://localhost:5203
+
+GET {{SMART_EVENT_MANAGEMENT_SYSTEM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
